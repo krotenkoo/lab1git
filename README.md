@@ -1,1 +1,1 @@
-# lab1git(1)
+# lab1git
